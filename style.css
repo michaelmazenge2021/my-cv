@@ -1,0 +1,70 @@
+body{
+	background-image: url(empee.jpg);
+	color: white
+}
+.everything{
+	height: 100%;
+	width: 90%;
+	background-color: #ffffff10;
+	backdrop-filter: blur(12px);
+	border-radius: 10px;
+	margin: 40px;
+	color: white
+	
+}
+.prof{
+item-align: center;
+height: "250px";
+width: "200px"
+}
+.wow{
+	justify-items: center;
+    text-align: center;
+    left: -42%;
+    position: relative;
+}
+.centered{
+	width: '100%';
+	position: relative;
+	left: 45%
+}
+.contact{
+	background: ;
+	border-radius: 8px;
+	margin-left: 80px
+}
+.professionalsummary{
+	margin-left: 80px;
+	margin-right: 80px;
+
+}
+.education{
+	margin-left: 80px;
+	margin-right: 80px
+}
+.container{
+	left: 0%;
+    position: relative;
+}
+.workexperience{
+	background: ;
+	border-radius: 8px;
+	margin-left: 80px
+}
+.addinformation, .references{
+	background: ;
+	border-radius: 8px;
+	margin-left: 80px
+}
+.references span{
+ font-size: 42px;
+
+}
+.education table,th,tr{
+  border: 0.5px solid white;
+  width: 100%
+}
+
+.contact a{
+  text-align: left;
+}
